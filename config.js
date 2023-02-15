@@ -56,15 +56,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727401', 'AgungModz', true]
+['62895406419364', 'AgungModz', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727409'
-global.nomorown = '6283863727401'
-global.nomorown1 = '61483906014'
-global.nomorown2 = '6282214729677'//bisa nomer pacarmu
-global.nomorown3 = '61483906014' //ganti 
+global.nomorbot = '6285794583615'
+global.nomorown = '62895406419364'
+global.nomorown1 = '-'
+global.nomorown2 = '-'//bisa nomer pacarmu
+global.nomorown3 = '-' //ganti 
 global.nomorwa = '0'//gakusah di ganti
 
 
@@ -93,7 +93,7 @@ global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown = 'AgungModz'
-global.ultahowner = 'Febuari 02 2023'
+global.ultahowner = 'Juni 26 2016'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
 global.lynk = 'https://lynk.id/hyuuraofc'
@@ -102,9 +102,9 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/l4c1f2r'
 global.sgh = 'https://github.com/Lucife-Putra' //github
-global.wame = 'wa.me/6283863727401'
+global.wame = 'wa.me/62895406419364'
 global.linkyt = 'https://youtube.com/@Putra_Modz_'
-global.tautanwa = 'wa.me/6283863727401' //kalau bisa link wa bisnis kalian
+global.tautanwa = 'wa.me/62895406419364' //kalau bisa link wa bisnis kalian
 global.sfb = 'https://www.facebook.com/' // facebook
 global.sdc = '-' //discord
 global.gcwangsaf = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
@@ -114,11 +114,11 @@ global.syt = 'https://youtube.com/@Putra_Modz_'
 global.tik = 'https://www.tiktok.com/'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0838 6372 7401'
+global.pdana = '0895 4064 19364'
 global.povo = '-'
 global.plinkaja = '-' //link aja
 global.pgopay = '-'
-global.ppulsa = '0838 6372 7401'
+global.ppulsa = '0895 4064 19364'
 global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/hyuura'
 
@@ -378,7 +378,7 @@ global.flaaa = fla
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/l4c1f2r"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0838 6372 7401'
+global.phn = '0895 4064 19364'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
