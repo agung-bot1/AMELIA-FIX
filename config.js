@@ -56,7 +56,7 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727401', 'PutraModz', true]
+['6283863727401', 'AgungModz', true]
 ]
 global.mods = []
 global.prems = []
@@ -71,28 +71,28 @@ global.nomorwa = '0'//gakusah di ganti
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Amelia Botz'
+global.author = 'Created By AMELIA Botz'
 global.namebot = ' AMELIA BOTZ MD'
-global.wm = '© AMELIA BOTZ | PutraModz'
+global.wm = '© AMELIA BOTZ | AgungModz'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'PutraModz '
-global.wm3 = 'Amelia-MD'
+global.wm2 = '-'
+global.wm3 = '-'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `AMELIA PUTRI SEPTIANY`
+global.titlebot = `-`
 global.stickpack = 'Amelia-Botz'
-global.gcname = 'Amelia Putri Septiany'
-global.nameown1= 'PutraModz'
-global.nameown2 = 'Purnama'
-global.nameown3 = 'Nothing'
+global.gcname = '-'
+global.nameown1= 'AgungModz'
+global.nameown2 = '-'
+global.nameown3 = '-'
 global.packname2 = 'Amelia-MD'
-global.stickauth = `© PutraModz`
+global.stickauth = `© AgungModz`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown = 'PutraModz'
+global.nameown = 'AgungModz'
 global.ultahowner = 'Febuari 02 2023'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
@@ -115,11 +115,11 @@ global.tik = 'https://www.tiktok.com/'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '0838 6372 7401'
-global.povo = '0838 6372 7401'
+global.povo = '-'
 global.plinkaja = '-' //link aja
 global.pgopay = '-'
 global.ppulsa = '0838 6372 7401'
-global.ppulsa2 = '082214729678'
+global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/hyuura'
 
 
