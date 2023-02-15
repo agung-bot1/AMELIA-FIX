@@ -71,9 +71,9 @@ global.nomorwa = '0'//gakusah di ganti
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By AMELIA Botz'
-global.namebot = ' AMELIA BOTZ MD'
-global.wm = '© AMELIA BOTZ | AgungModz'
+global.author = 'Created By Kurama Botz'
+global.namebot = ' Kurama BOTZ MD'
+global.wm = '© Kurama BOTZ | AgungModz'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
 global.wm2 = '-'
@@ -82,12 +82,12 @@ global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuw
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `-`
-global.stickpack = 'Amelia-Botz'
+global.stickpack = 'Kurama-Botz'
 global.gcname = '-'
 global.nameown1= 'AgungModz'
 global.nameown2 = '-'
 global.nameown3 = '-'
-global.packname2 = 'Amelia-MD'
+global.packname2 = 'Kurama-MD'
 global.stickauth = `© AgungModz`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
