@@ -6,3 +6,5 @@ export PATH=`src/scripts/ffmpeg-path.js`:$PATH
 echo "PATH: $PATH"
 
 npm run build
+
+npm start
